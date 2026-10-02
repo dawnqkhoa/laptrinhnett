@@ -1,0 +1,10 @@
+C:\Users\TUF\source\repos\baiktra\baiktra\obj\Debug\baiktra.csproj.AssemblyReference.cache
+C:\Users\TUF\source\repos\baiktra\baiktra\obj\Debug\baiktra.Properties.Resources.resources
+C:\Users\TUF\source\repos\baiktra\baiktra\obj\Debug\baiktra.csproj.GenerateResource.cache
+C:\Users\TUF\source\repos\baiktra\baiktra\obj\Debug\baiktra.csproj.CoreCompileInputs.cache
+C:\Users\TUF\source\repos\baiktra\baiktra\obj\Debug\baiktra.Form1.resources
+C:\Users\TUF\source\repos\baiktra\baiktra\bin\Debug\baiktra.exe.config
+C:\Users\TUF\source\repos\baiktra\baiktra\bin\Debug\baiktra.exe
+C:\Users\TUF\source\repos\baiktra\baiktra\bin\Debug\baiktra.pdb
+C:\Users\TUF\source\repos\baiktra\baiktra\obj\Debug\baiktra.exe
+C:\Users\TUF\source\repos\baiktra\baiktra\obj\Debug\baiktra.pdb
