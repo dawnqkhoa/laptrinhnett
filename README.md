@@ -23,3 +23,4 @@ override (Lớp con): Được sử dụng ở lớp con để ghi đè (thay th
 
 Câu 4: Truy xuất thành phần static
 Thành phần static thuộc về cấp độ Lớp (Class level), dùng chung cho tất cả các đối tượng của lớp đó, không phụ thuộc vào bất kỳ trạng thái nào của một Object cụ thể. C# thiết kế bắt buộc phải gọi qua tên Lớp (VD: ClassName.Method()) để tránh sự nhầm lẫn về mặt ngữ nghĩa (ngăn lập trình viên hiểu lầm rằng thành phần static đó là dữ liệu riêng của một Object instance).
+*** phần 2 với 3 em quên đổi tên , phần 2 là console1,phần 3 là baiktra ạ
